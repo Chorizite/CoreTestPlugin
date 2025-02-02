@@ -3,6 +3,6 @@
   "author": "Chorizite",
   "entryfile": "CoreTestPlugin.dll",
   "version": "0.0.1",
-  "description": "test plugin",
+  "description": "core test plugin",
   "environments": [ "Launcher", "Client" ]
 }
