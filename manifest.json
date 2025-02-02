@@ -1,0 +1,8 @@
+{
+  "name": "CoreTestPlugin",
+  "author": "Chorizite",
+  "entryfile": "CoreTestPlugin.dll",
+  "version": "0.0.1",
+  "description": "test plugin",
+  "environments": [ "Launcher", "Client" ]
+}
